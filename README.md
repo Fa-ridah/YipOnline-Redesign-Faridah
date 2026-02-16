@@ -1,8 +1,8 @@
 # YipOnline-Redesign-Faridah
 YipOnline website redesign – Figma to HTML/CSS conversion
 
-Live Demo: [https://yourusername.github.io/yiponline-redesign/](https://yourusername.github.io/yiponline-redesign/)  
-https://yiponlineredesign.netlify.app/
+Live Demo: [https://yiponlineredesign.netlify.app/](https://yiponlineredesign.netlify.app/)  
+
 
 ## Project Overview
 Redesign of the YipOnline website (Figma design → clean, semantic HTML & CSS).  
